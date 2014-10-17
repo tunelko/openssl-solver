@@ -1,4 +1,4 @@
-Openssl-solver
+Openssl cipher solver
 ======
 
 Openssl solver that helps with a dictionary to bruteforce ciphertexts

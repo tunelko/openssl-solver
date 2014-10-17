@@ -1,0 +1,1 @@
+cat plaintext >> results.txt

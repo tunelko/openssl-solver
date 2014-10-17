@@ -8,7 +8,7 @@ Use
 
 First you need a good dictionary, maybe john's one. Then two loops with ciphers and passwords. 
         
-    $ for cipher in `cat possible_ciphers`; do for pass in `cat passlist.txt`; do ./solve.sh $cipher $pass; done; done
+    $ for cipher in `cat possible_ciphers`;do for pass in `cat passlist.txt`;do ./solve.sh $cipher $pass;done;done
 
 Example
 =======

@@ -29,3 +29,11 @@ Now, decrypt it:
     
     $ cat plaintext
     This is my secret
+
+Requirements 
+=======
+
+It needs "expect". 
+
+        apt-get install expect 
+

@@ -1,7 +1,7 @@
-openssl-solver
+Openssl-solver
 ======
 
-openssl solver that helps with a dictionary to bruteforce ciphertexts
+Openssl solver that helps with a dictionary to bruteforce ciphertexts
 
 Use
 ======

@@ -35,5 +35,5 @@ Requirements
 
 It needs "expect". 
 
-        apt-get install expect 
+    $ apt-get install expect 
 

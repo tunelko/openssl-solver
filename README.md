@@ -10,7 +10,7 @@ First you need a good dictionary, maybe john's one. Then two loops with ciphers 
         
     $ for cipher in `cat possible_ciphers`;do for pass in `cat passlist.txt`;do ./solve.sh $cipher $pass;done;done
 
-Example
+Example 
 =======
 
 Let's cipher a dummy text with password 'pass':
@@ -37,3 +37,9 @@ It needs "expect".
 
     $ apt-get install expect 
 
+Test the tool with real cipher challenge
+=======
+
+        U2FsdGVkX19QX/EHpHvRYyW52rN/m9gTNmwTgFkLDyiw6flFLsUK2JFQ/UtIVD8P
+        5KzdLHO1pzBXpDOYpv/vA5Lb28oGP1Yd9iFKGBIrChUg37vI6wfY5wX0a2H7dsNJ
+        nzXhEpNsUMclG7L0RbWE4QCw4i6bM/KZ8GpFxDT1FZk=

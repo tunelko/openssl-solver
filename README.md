@@ -1,7 +1,7 @@
 Openssl solver by bruteforce
 ======
 
-Openssl solver that helps with a dictionary to bruteforce ciphertexts
+Openssl solver that helps to decipher with a dictionary to bruteforce ciphertexts.
 
 Use
 ======

@@ -39,6 +39,7 @@ It needs "expect".
 
 Test the tool with real cipher challenge
 =======
+Good luck!
 
         U2FsdGVkX19QX/EHpHvRYyW52rN/m9gTNmwTgFkLDyiw6flFLsUK2JFQ/UtIVD8P
         5KzdLHO1pzBXpDOYpv/vA5Lb28oGP1Yd9iFKGBIrChUg37vI6wfY5wX0a2H7dsNJ
